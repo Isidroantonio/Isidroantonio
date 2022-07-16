@@ -4,17 +4,17 @@
 - Python Lover 
 - 🤖 Desenvolvedor BackEnd 
 
-<div align="center">
+  <div align="center">
   
-</div>
-<div style="display: inline_block"><br>
+  </div>
+  <div style="display: inline_block"><br>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isidroantonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isidroantonio&layout=compact&langs_count=7&theme=dracula"/>
   
-  
-  <img align="center" alt="isi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <div>
+    <img align="center" alt="isi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
  
   ##
     

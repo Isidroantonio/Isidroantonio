@@ -1,7 +1,7 @@
 ## Oiii eu sou o Gok.., não pera.. Isidro Junior
-- Onde tudo começou: Janeiro de 2019.
-- FATEC - SJC 
-- Python Lover 
+- :pushpin: Onde tudo começou: Janeiro de 2019.
+- :school_satchel: FATEC - SJC 
+- :snake: Python Lover 
 - 🤖 Desenvolvedor BackEnd 
 
   <div align="center">

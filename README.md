@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/zidro.zi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isidro-antonio-450567240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  <img align="center" alt="isi-git" height="60" width="70" src="https://tenor.com/view/are-you-there-tapping-on-screen-rick-and-morty-rick-sanchez-toxic-gif-16998383" />
+  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
   
   
 

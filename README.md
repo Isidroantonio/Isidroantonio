@@ -26,6 +26,8 @@
     
   <a href="https://www.instagram.com/zidro.zi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isidro-antonio-450567240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <div class="tenor-gif-embed" data-postid="16998383" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/are-you-there-tapping-on-screen-rick-and-morty-rick-sanchez-toxic-gif-16998383">Are You There Tapping On Screen GIF</a>from <a href="https://tenor.com/search/are+you+there-gifs">Are You There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
  </div>
  

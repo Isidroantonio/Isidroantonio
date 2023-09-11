@@ -1,4 +1,4 @@
-## Oiii eu sou o Gok.., não pera.. Isidro Junior
+## Oiii eu sou o Isidro Junior.
 - :pushpin: Onde tudo começou: Janeiro de 2019.
 - :school_satchel: FATEC - SJC 
 - :snake: Python Lover 
@@ -21,11 +21,3 @@
           
    
   ##
-  <div>
-    
-    <a href="https://www.instagram.com/zidro.zi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/isidro-antonio-450567240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-   ![Snake animation](https://github.com/Isidroantonio/Isidroantonio/blob/output/github-contribution-grid-snake.svg)
-  
- </div>

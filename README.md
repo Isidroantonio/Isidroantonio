@@ -1,6 +1,6 @@
 ## Oiii eu sou o Isidro Junior.
 - :pushpin: Onde tudo começou: Janeiro de 2019.
-- :school_satchel: FATEC - SJC 
+- :school_satchel: FATEC - Taubaté 
 - :snake: Python Lover 
 - 🤖 Desenvolvedor BackEnd 
 
